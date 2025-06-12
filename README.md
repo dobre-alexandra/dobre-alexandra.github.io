@@ -1,4 +1,4 @@
-# Data Scientist & Quantitative Researcher
+## Data Scientist, Statistician, & Quantitative Researcher
 
 #### Coding: Python, R, Stata, SQL, Bash, LaTeX
 #### Tools: Google Cloud Platform, Hadoop, Apache Spark, Tableau, ArcGIS, Postgres, Databricks, AWS Snowflake, Git, Github, Google Colab, Jupyter
@@ -56,3 +56,11 @@ _________________
 - Administered the Office of Research's Linux computing environment, providing training, troubleshooting, and performance monitoring for 100+ users across complex distributed systems.
 - Managed the construction of the Bureau's [HMDA Reporter Panel](https://ffiec.cfpb.gov/data-publication/snapshot-national-loan-level-dataset/2021) dataset, executing code to integrate multiple regulatory mortgage data sources covering 5,000+ lenders, and automating the reconciliation of conflicting reporter identifiers.
 - Co-authored a [Bureau report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4031924) on credit characteristics of Asian Americans and Pacific Islanders in the mortgage market, coordinated the review and timely release of the report with internal stakeholders.
+
+_______
+
+## Research
+
+* Dobre, Alexandra and B. Heath Witzen. "[Mortgage Lender Misclassification of Applicant Race and Ethnicity: Evidence from HMDA Data.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636883)" *Consumer Financial Protection Bureau Office of Research Working Paper Series*. No. 23-04. November 3, 2023.
+* Dobre, Alexandra, Marie Rush, and Eric Wilson. "[Financial conditions for renters before and during the COVID-19 pandemic.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4031924)" *Consumer Financial Protection Bureau Office of Research Reports Series*. No. 21-11. September 17, 2021.
+* Jo, Young and Alexandra Dobre. "[Asian American and Pacific Islanders in the mortgage market.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4031924)" *Consumer Financial Protection Bureau Office of Research Reports Series*. No. 21-8. July 1, 2021.
