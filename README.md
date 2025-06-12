@@ -1,28 +1,45 @@
-# Data Scientist
+# Data Scientist & Quantitative Researcher
 
-#### Technical Skills: Python, R, Stata, SQL, Bash, LaTeX
+#### Coding: Python, R, Stata, SQL, Bash, LaTeX
+#### Tools: Google Cloud Platform, Hadoop, Apache Spark, Tableau, ArcGIS, Postgres, Databricks, AWS Snowflake, Git, Github, Google Colab, Jupyter
 
 ## Education							       		
-MSc, Statistics (Social Statistics)	| The London School of Economics and Political Science (_Expected July 2025_)	 			        		
+Master of Science, Statistics (Social Statistics)	- The London School of Economics and Political Science (_Expected July 2025_)	 			        		
 
-B.S., Economics | The George Washington University (_May 2020_)
+Bachelor of Science, Economics - The George Washington University (_May 2020_)
+
+_________________
 
 ## Projects
 
-### [Machine Learning for Fake News Detection](https://github.com/dobre-alexandra/fakenews-detection-ML)
-*Tools: Python (NLTK, pandas, numpy), Apache Spark (PySpark, MLlib), Google Cloud Platform (GCS) — April 2025*
+#### [Machine Learning for Fake News Detection (April 2025)](https://github.com/dobre-alexandra/fakenews-detection-ML)
+*Tools: Python (NLTK, pandas, numpy), Apache Spark (PySpark, MLlib), Google Cloud Platform (GCS)*
+
+* [Report](https://github.com/dobre-alexandra/ai-stock-portfolio/blob/main/report.pdf), [Github Repository](https://github.com/dobre-alexandra/fakenews-detection-ML)
 * Developed a scalable fake news detection pipeline in Python using Apache Spark MLlib with over 98% accuracy, using Natural Language Processing techniques with feature engineering from article metadata to predict article accuracy.
 * Analyzed Logistic Regression and Random Forest model interpretability by extracting coefficients and feature importances, revealing key predictors of fake news, such as sensationalist stylistic elements and temporal patterns.
 
-### [Personalized Stock Portfolio Optimization](https://github.com/dobre-alexandra/ai-stock-portfolio/tree/main)
-*Tools: Python (pandas, NumPy, CVXPY), GLPK, Google Colab — January 2025*
+#### [Scalable Credit Card Fraud Detection with Distributed Machine Learning (May 2025)](https://github.com/dobre-alexandra/creditcard-fraud-ML)
+*Tools: Python (pandas, NumPy, imbalanced-learn, scikit-learn, matplotlib, seaborn), Apache Spark (PySpark, MLlib), Google Cloud Platform (Dataproc, GCS)*
+
+* [Report](https://github.com/dobre-alexandra/creditcard-fraud-ML/blob/main/reports/final_report.pdf), [Github Repository](https://github.com/dobre-alexandra/creditcard-fraud-ML))
+* Developed a scalable credit card fraud detection pipeline on Google Cloud Platform (GCP) leveraging Apache Spark (PySpark) to process and analyze a 4-million-row credit card transaction dataset.
+* Engineered a data augmentation strategy combining Synthetic Minority Oversampling Technique (SMOTE) and bootstrapping to address extreme class imbalance (0.17% fraud rate), significantly enhancing model learning without degrading test set realism.
+* Evaluated Logistic Regression, LightGBM, Random Forest, and Isolation Forest models for performance and scalability, analyzing training times and resource utilization (CPU, Disk I/O, YARN memory) across varying data sizes and worker nodes
+
+#### [Personalized Stock Portfolio Optimization (January 2025)](https://github.com/dobre-alexandra/ai-stock-portfolio/tree/main)
+*Tools: Python (pandas, NumPy, CVXPY), GLPK, Google Colab*
+
+* [Report](https://github.com/dobre-alexandra/ai-stock-portfolio/blob/main/report.pdf), [Github Repository](https://github.com/dobre-alexandra/ai-stock-portfolio/tree/main)
 * Engineered an AI-driven Constraint Satisfaction Problem (CSP) framework in Python using CVXPY and GLPK to personalize stock portfolio allocations, optimizing for user-defined risk and returns.
 * Designed an interactive Python tool integrating financial stock data and user input to generate optimal, diversified portfolios using mathematical optimization, data manipulation, and financial modeling.
 
-### [Social Network Analysis: Eurovision Voting Networks](https://github.com/dobre-alexandra/eurovision-network-analysis)
+#### [Social Network Analysis: Eurovision Voting Networks](https://github.com/dobre-alexandra/eurovision-network-analysis)
 *Tools: R (igraph, knitr, dplyr), RStudio — May 2025*
 * Conducted a comprehensive social network analysis in R using `igraph` to visualize and analyze historical Eurovision voting patterns, uncovering nuanced geospatial relationships and voting blocs based on public and jury data (1957-2023).
 * Applied community detection algorithms (Spinglass) and quantitative measures (reciprocity, assortativity) to identify latent alliances within the voting network, providing insights into cultural and regional influences on international competitions.
+
+_________________
 
 ## Work Experience
 **Research Analyst @ U.S. Consumer Financial Protection Bureau (_July 2022 - August 2024_)**
