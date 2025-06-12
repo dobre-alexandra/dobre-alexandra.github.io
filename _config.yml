@@ -1,5 +1,8 @@
 title: Alexandra Dobre
 logo: /assets/img/headshot_circle.png
-#description:
+description: |
+  <p><a href="https://www.linkedin.com/in/alexandradobre/">LinkedIn Profile</a></p>
+  <p><a href="/assets/Dobre_CV_June2025.pdf">Resume</a></p>
+  <p><a href="https://github.com/dobre-alexandra">View My GitHub Profile</a></p>
 #show_downloads: true
 theme: jekyll-theme-minimal
